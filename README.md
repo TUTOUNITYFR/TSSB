@@ -18,7 +18,6 @@ Exemple : Pour une sauvegarde automatique toutes les 10 minutes, mettez 600. (60
 **BUG CONNUS**
 
 - Lors de l'importation du UnityPackage, une erreur apparait dans la console et force l'utilisateur à redémarrer Unity.
-- Lorsque l'utilisateur refuse la sauvegarde via le bouton prévu à cet effet, la sauvegarde n'est pas effectuée mais un message de confirmation de sauvegarde apparait quand même dans la console.
 
 # CRÉDITS
 
